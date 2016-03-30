@@ -1,0 +1,12 @@
+{
+  "name": "image-funcs",
+  "version": "0.0.0",
+  "description": "image-funcs module",
+  "repository": "jeromedecoster/image-funcs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
